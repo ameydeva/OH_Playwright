@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-09T12:01:59 IST" name="Default suite" finished-at="2024-05-09T12:07:28 IST" duration-ms="328923">
+    <groups>
+    </groups>
+    <test started-at="2024-05-09T12:01:59 IST" name="Default test" finished-at="2024-05-09T12:07:28 IST" duration-ms="328923">
+      <class name="com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:01:59 IST" name="setup" finished-at="2024-05-09T12:02:37 IST" duration-ms="38494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="housingLogin()[pri:1, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:02:37 IST" name="housingLogin" finished-at="2024-05-09T12:02:38 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- housingLogin -->
+        <test-method signature="housingNavigation()[pri:2, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:02:38 IST" name="housingNavigation" finished-at="2024-05-09T12:02:48 IST" duration-ms="10488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- housingNavigation -->
+        <test-method signature="createLocation()[pri:3, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:02:48 IST" name="createLocation" finished-at="2024-05-09T12:03:40 IST" duration-ms="51671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLocation -->
+        <test-method signature="createJob()[pri:4, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:03:40 IST" name="createJob" finished-at="2024-05-09T12:06:49 IST" duration-ms="189335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createJob -->
+        <test-method signature="workTicketManagement()[pri:5, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:06:49 IST" name="workTicketManagement" finished-at="2024-05-09T12:07:09 IST" duration-ms="19524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workTicketManagement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test@932bc4a]" started-at="2024-05-09T12:07:09 IST" name="tearDown" finished-at="2024-05-09T12:07:28 IST" duration-ms="19013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.capita.one.housing.tests.playwright.POC.JobManagementPOC_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
